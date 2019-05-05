@@ -1,0 +1,77 @@
+---
+title: "About Me"
+date: '2018-12-01'
+output: 
+  blogdown::html_page:
+    toc: false
+---
+
+
+<style>
+.column-left{
+  float: left;
+  width: 40%;
+  text-align: center;
+}
+
+.column-right{
+  float: right;
+  width: 60%;
+  text-align: left;
+}
+</style>
+
+***
+
+<div class="column-left">
+
+![](/./about_files/32AB678B-43AB-4F1E-B895-0C3FEDDA58CC.jpg)
+
+</div>
+
+<div class="column-right">
+
+- __Name:__ Dzhaner Sami Emin
+- __Ocupation:__ PhD Student 
+- __Institution:__ [Instute for Bio- and Geoscience](http://www.fz-juelich.de/portal/EN/institutes/InstituteBioGeosciences/_node.html), Research Center Jülich, Germany
+- __Hobbies:__ Birdwatching, Weighlifting, Cycling . 
+
+### 
+
+- __Publications__ 
+    + Breeding Habitat of Barn Owl [PDF](Tyto_breeding_Milchev_Gruychev.pdf) - significant contribution to fieldwork and data collection 
+    + Home range of Long-eared Owl [PDF]()
+    + SPECIM IQ [PDF]()
+
+
+
+
+
+###
+
+</div>
+
+- __CV__ ([.docx]()) ([PDF]())
+
+
+[`r icon::fa("envelope")`](mailto:dzhaner.emin@gmail.com)
+[`r icon::fa("linkedin")`](https://www.linkedin.com/in/djaneremin/")
+[`r icon::fa("mixcloud")`](https://www.mixcloud.com/djaner-emin/listens/)
+[`r icon::fa("linkedin")`](https://www.linkedin.com/in/djaneremin/")
+
+
+***
+
+### Summary
+
+Dzhaner Sami Emin received Bachelor's degree in Ecology and Nature Conservation at the [Forestry University of Sofia](https://ltu.bg/en/) (Bulgaria), where he developed interest in environmental modelling, spatial analysis, and remote sensing. He attended a two-year dual-masters course funded through Erasmus-Mundus scholarship in Geo-information Science and Remote Sensing for Environmental Modeling and Management at the [Geography department of Lund University](https://www.nateko.lu.se) (Sweden) and at the [Institute for Geo-information Science and Earth Observation of Twente Unverisity](https://www.itc.nl)(The Netherlands). Currently, he is pursuing a PhD in Remote Sensing of Vegetation at the [Instute for Bio- and Geoscience](http://www.fz-juelich.de/portal/EN/institutes/InstituteBioGeosciences/_node.html), part of Research Center Jülich, Germany
+
+Dzhaner has worked as Remote Sensing Specialist at [EFTAS Fernerkundung](https://www.eftas.de/en/), as independent expert for the [Bulgarian Ministry of Environment]() performing field surveys in conservation areas. He has also worked as intern in a [Conservation organisation in UK](https://www.barnowltrust.org.uk) and in the [Bulgarian Ministry of Environment](https://www.moew.government.bg/en/). During his tenure in Research Institute Jülich he has tutored Master's and Bachelor's students and has been a regular tour guide for outside visiting groups.
+
+Dzhaner's key expertise include GIS and remote sensing data analysis, analysis of hyperspectral remote sensing of vegetation, ecosystem modeling. He has extensive experience in planning and excecuting field surveys in agriculutural and natural areas. He has experience working with various field hyperspectral devices and other environmental equipment. He is also, proficient in identification of plant and animal species composition,
+data storage and organisiation.
+
+Lately, he is focused on developing programming skills. He uses predominantly R and Python for statistical analysis, and produces reports, books (currently only his PhD work), and web-pages (like this one) using R-markdown.
+
+Dzhaner loves strength sports, hiking & climbing, birdwatching, empty discussions on phylosophical questions, and critisizing bad holywood movies.  
+

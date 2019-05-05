@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Title</title>
+    <link>/</link>
+    <description>Recent content on Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Places</title>
+      <link>/gallery/places/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/gallery/places/</guid>
+      <description> Barber shop
+ Hipster fast food
+ My place
+ Dutch airport
+ Bremen
+ </description>
+    </item>
+    
+    <item>
+      <title>A Window Seat, Please</title>
+      <link>/gallery/window-seat-please/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/gallery/window-seat-please/</guid>
+      <description>I am a child of globalization. This means hours and hours of air time using low-cost companies visiting friends, family, or attending conferences. This is a compilation of photos during such trips across Europe. Some nice shots were possible especially when the weather played along.
+The tutle of this collection was stolen from Tao Ruspoli, a photographer and indie movie producer from the US whos work I really appreciate.</description>
+    </item>
+    
+    <item>
+      <title>Architecture</title>
+      <link>/gallery/architecture/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/gallery/architecture/</guid>
+      <description>I am passionate about architecture. Can’t say I know all the styles and movements but I tend to appreaciate a beautiful building. After all buidings are to us what a nice rock wall overlooking an open plane is to the Golden Eagle - they are our ‘environment’. If we are bound to live in and out of buildings we might as well appreciate them…
+Mosnchau Monschau - a small town in the Eifel with typical for Germany ‘Fachwerk’ houses.</description>
+    </item>
+    
+    <item>
+      <title>Test Post</title>
+      <link>/post/test-post/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/post/test-post/</guid>
+      <description> this is a post plot(c(1:10)) getwd() ## [1] &amp;quot;/Users/dzhaneremin/test_blogdown2/content/post&amp;quot;  Another header lorem ipsum talhoge lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge, lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,
+ </description>
+    </item>
+    
+    <item>
+      <title>Here are some useful links</title>
+      <link>/links/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/links/</guid>
+      <description>Arts &amp;amp; Music Data analysis &amp;amp; R   Arts &amp;amp; Music Radio NULA - the best online radio. Slovenian based, it plays the coolest, funkiest grooves from the R&amp;amp;B, Soul, Jazz, Hip-Hop, and alternative scene. Don’t miss the DJ-sets running in specific time slots.
+Get Down Sounds - Weekly Radio Show from East London - electronic, beats, hip-hop, afro, disco, dancehall.
+MAKOLA - Music Duo from East London - afrobeats and eauropean eclectics</description>
+    </item>
+    
+    <item>
+      <title>Poster designs</title>
+      <link>/project/projects/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/projects/</guid>
+      <description>  Poster concluding basic GIS course at Lund University Poster summarizing my BSc Thesis - Amphibians and Reptiles in South Park Sofia   Poster concluding basic GIS course at Lund University   Poster summarizing my BSc Thesis - Amphibians and Reptiles in South Park Sofia   </description>
+    </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>/about/</link>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>.column-left{ float: left; width: 40%; text-align: center; } .column-right{ float: right; width: 60%; text-align: left; }     Name: Dzhaner Sami Emin Ocupation: PhD Student Institution: Instute for Bio- and Geoscience, Research Center Jülich, Germany Hobbies: Birdwatching, Weighlifting, Cycling .    Publications  Breeding Habitat of Barn Owl PDF - significant contribution to fieldwork and data collection Home range of Long-eared Owl PDF SPECIM IQ PDF      CV (.</description>
+    </item>
+    
+    <item>
+      <title>Hello R Markdown</title>
+      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
+You can embed an R code chunk like this:
+summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/home.nb/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home.nb/</guid>
+      <description>R Notebook          code{white-space: pre;} pre:not([class]) { background-color: white; }  if (window.hljs) { hljs.configure({languages: []}); hljs.initHighlightingOnLoad(); if (document.readyState &amp;&amp; document.readyState === &#34;complete&#34;) { window.setTimeout(function() { hljs.initHighlighting(); }, 0); } }  h1 { font-size: 34px; } h1.title { font-size: 38px; } h2 { font-size: 30px; } h3 { font-size: 24px; } h4 { font-size: 18px; } h5 { font-size: 16px; } h6 { font-size: 12px; } .</description>
+    </item>
+    
+    <item>
+      <title>R Notebook</title>
+      <link>/home/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/home/</guid>
+      <description>This is an R Markdown Notebook. When you execute code within the notebook, the results appear beneath the code.
+first level second level Try executing this chunk by clicking the Run button within the chunk or by placing your cursor inside it and pressing Cmd+Shift+Enter.
+plot(cars) Add a new chunk by clicking the Insert Chunk button on the toolbar or by pressing Cmd+Option+I.
+When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the Preview button or press Cmd+Shift+K to preview the HTML file).</description>
+    </item>
+    
+  </channel>
+</rss>

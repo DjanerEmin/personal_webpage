@@ -1,0 +1,68 @@
+---
+title: Architecture
+output: 
+  html_document:
+    toc: true
+description: 'This is a gallery of buildings Europe.'
+date: '2018-12-29'
+slug: architecture
+categories: []
+tags:
+  - architecture
+
+
+---
+
+I am passionate about architecture. Can't say I know all the styles and movements but I tend to appreaciate a beautiful building. After all buidings are to us what a nice rock wall overlooking an open plane is to the Golden Eagle - they are our 'environment'. If we are bound to live in and out of buildings we might as well appreciate them...
+
+***
+## Mosnchau 
+
+![Monschau - a small town in the Eifel with typical for Germany 'Fachwerk' houses. ](/gallery/2018-12-29-architecture_files/IMG_0230.JPG)
+
+***
+
+## Köln 
+
+![Residential-commercial compex in downtown Köln. Amazing balcony and what a roof!](/gallery/2018-12-29-architecture_files/IMG_1066.JPG)
+
+***
+
+![Industrial buildings in Köln-Ehrenfeld.](/gallery/2018-12-29-architecture_files/IMG_1765.JPG)
+
+***
+
+![The masterpiece of gothic architecture - the Dome in Köln.](/gallery/2018-12-29-architecture_files/IMG_2909-side.jpg)
+
+***
+
+![Modern examples from Köln - left, a residential building on the Rhein bank, right - the new Mosque.](/gallery/2018-12-29-architecture_files/IMG_0055-side.jpg)
+
+
+***
+## Aachen
+
+![Aachen architecture.](/gallery/2018-12-29-architecture_files/20160810_164159-side.jpg)
+
+***
+
+
+![Aachen architecture - detail.](/gallery/2018-12-29-architecture_files/20160810_164151-side.jpg)
+
+***
+
+## Amsterdam
+
+![Amsterdam](/gallery/2018-12-29-architecture_files/IMG_0806-side.jpg)
+
+***
+
+![Dresden](/gallery/2018-12-29-architecture_files/IMG_4550-side.jpg)
+
+***
+
+## Italy
+
+![Frascati](/gallery/2018-12-29-architecture_files/IMG_1608-side.jpg)
+
+***

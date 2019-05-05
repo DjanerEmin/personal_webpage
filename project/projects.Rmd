@@ -1,0 +1,20 @@
+---
+title: "Poster designs"
+date: '2018-12-12'
+output: 
+  blogdown::html_page:
+    toc: true
+    
+---
+
+***
+### Poster concluding basic GIS course at Lund University
+
+![](/project/projects_files/PosterPresentation_Machakos_DOK-1.jpg)
+
+
+***
+
+### Poster summarizing my BSc Thesis - Amphibians and Reptiles in South Park Sofia
+
+![](/project/projects_files/frogs-1.jpg)

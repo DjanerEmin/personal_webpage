@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>photos on Title</title>
+    <link>/categories/photos/</link>
+    <description>Recent content in photos on Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 31 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/categories/photos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Places</title>
+      <link>/gallery/places/</link>
+      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/gallery/places/</guid>
+      <description> Barber shop
+ Hipster fast food
+ My place
+ Dutch airport
+ Bremen
+ </description>
+    </item>
+    
+    <item>
+      <title>A Window Seat, Please</title>
+      <link>/gallery/window-seat-please/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/gallery/window-seat-please/</guid>
+      <description>I am a child of globalization. This means hours and hours of air time using low-cost companies visiting friends, family, or attending conferences. This is a compilation of photos during such trips across Europe. Some nice shots were possible especially when the weather played along.
+The tutle of this collection was stolen from Tao Ruspoli, a photographer and indie movie producer from the US whos work I really appreciate.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Title</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Poster designs</title>
+      <link>/project/projects/</link>
+      <pubDate>Wed, 12 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/project/projects/</guid>
+      <description>  Poster concluding basic GIS course at Lund University Poster summarizing my BSc Thesis - Amphibians and Reptiles in South Park Sofia   Poster concluding basic GIS course at Lund University   Poster summarizing my BSc Thesis - Amphibians and Reptiles in South Park Sofia   </description>
+    </item>
+    
+  </channel>
+</rss>

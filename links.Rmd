@@ -1,0 +1,23 @@
+---
+title: "Here are some useful links"
+date: '2018-12-12'
+output: 
+  blogdown::html_page:
+    toc: true
+---
+
+### Arts & Music
+
+[Radio NULA](http://radionula.com) - the best online radio. Slovenian based, it plays the coolest, funkiest grooves from the R&B, Soul, Jazz, Hip-Hop, and alternative scene. Don't miss the DJ-sets running in specific time slots.
+
+[Get Down Sounds](https://www.mixcloud.com/getdownsounds/) - Weekly Radio Show from East London - electronic, beats, hip-hop, afro, disco, dancehall.
+
+[MAKOLA](http://www.makolamusic.com) - Music Duo from East London - afrobeats and eauropean eclectics
+
+[Tao Ruspoli](https://www.taoruspoli.com) - An Italian-American director, photograph, and producer I observe for inspiration.
+
+[Marta Savova](http://blacktulipsoftime.wixsite.com/marta-savova) - A Bulgarian-American artist - fine arts
+
+### Data analysis & R
+
+[D G Rossiter's Cornell Home Page](http://www.css.cornell.edu/faculty/dgr2/) - Great teacher and inspiring personality. His web page has numerous helpful text books on R-statistical language, Data analysis, and Research skills. 

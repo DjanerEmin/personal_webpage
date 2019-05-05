@@ -1,0 +1,21 @@
+---
+title: Test Post
+author: D.Emin
+date: '2018-12-29'
+slug: test-post
+---
+
+## this is a post 
+
+```{r}
+plot(c(1:10))
+```
+
+```{r}
+getwd()
+```
+
+## Another header
+
+lorem ipsum talhoge lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,
+lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,lorem ipsum talhoge,

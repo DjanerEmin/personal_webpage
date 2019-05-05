@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>architecture on Title</title>
+    <link>/tags/architecture/</link>
+    <description>Recent content in architecture on Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Dec 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/architecture/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Architecture</title>
+      <link>/gallery/architecture/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/gallery/architecture/</guid>
+      <description>I am passionate about architecture. Can’t say I know all the styles and movements but I tend to appreaciate a beautiful building. After all buidings are to us what a nice rock wall overlooking an open plane is to the Golden Eagle - they are our ‘environment’. If we are bound to live in and out of buildings we might as well appreciate them…
+Mosnchau Monschau - a small town in the Eifel with typical for Germany ‘Fachwerk’ houses.</description>
+    </item>
+    
+  </channel>
+</rss>
